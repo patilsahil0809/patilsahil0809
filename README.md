@@ -8,13 +8,11 @@
 
 - 📫 How to reach me **patilsahil731@gmail.com**
 
-- 📄 Know about my experiences [Resume: Click Here](file:///C:/Users/TECH%20BAZAAR/Desktop/Devops/Resume%20Main/Sahil-Resume-2024%20(7).pdf)
-
 - ⚡ Fun fact **💡 Fun Fact: I automate my coffee-making process almost as much as I automate deployments—because caffeine is the original CI/CD pipeline!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahil patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil patil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahil-patil-08bc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil patil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
