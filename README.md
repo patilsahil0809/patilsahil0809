@@ -4,9 +4,11 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sahil-patil-08bc/](https://www.linkedin.com/in/sahil-patil-08bc/)
+- 📝 I regularly write articles on LinkedIn
 
 - 📫 How to reach me **patilsahil731@gmail.com**
+
+- 📄 Know about my experiences here
 
 - ⚡ Fun fact **💡 Fun Fact: I automate my coffee-making process almost as much as I automate deployments—because caffeine is the original CI/CD pipeline!**
 
