@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **patilsahil731@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/TECH%20BAZAAR/Desktop/Devops/Resume%20Main/Sahil-Resume-2024%20(7).pdf](file:///C:/Users/TECH%20BAZAAR/Desktop/Devops/Resume%20Main/Sahil-Resume-2024%20(7).pdf)
+- 📄 Know about my experiences [Resume: Click Here](file:///C:/Users/TECH%20BAZAAR/Desktop/Devops/Resume%20Main/Sahil-Resume-2024%20(7).pdf)
 
 - ⚡ Fun fact **💡 Fun Fact: I automate my coffee-making process almost as much as I automate deployments—because caffeine is the original CI/CD pipeline!**
 
